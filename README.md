@@ -1,8 +1,8 @@
 This is a data exploration project using Python in Jupyter Notebook as part of my final project in a postgraduate program in Data Analytics. 
 Conducted in April 2020, the project focuses on summarizing insights from (cleansed) 3m+ Airbnb bookings data made between August 2019-August 2020 as a result of the planned Tokyo Olympics in 2020.
-The Python packages used were: pandas, numpy, seaborn, matplotlib, scikit-learn.
+The Python packages used were: pandas, numpy, seaborn, matplotlib and scikit-learn.
 
-Project followed an end-to-end data analytics process from preparation (i.e. webscraping, wrangling), to visualization, then training, validation and test.
+Project followed an end-to-end data analytics process from preparation (i.e. webscraping, wrangling), to visualization, then training, validation and test. Only approx 18,000 data points were trained and tested due to Jupyter Notebook's constraint in testing 1m+ data points of cleansed data.
 Out of personal curiosity, some experimentation with geopy and Google Maps API (through Google Cloud Platform) was used to identify the coordinates of the Olympic venues.
 
 The machine learning algorithms adopted for this project is a result of independently reviewing 6 publications to examine their approaches to similar Airbnb price prediction projects.
