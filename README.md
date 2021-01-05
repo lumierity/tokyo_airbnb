@@ -15,7 +15,7 @@ The best predictor of Airbnb prices during this period is Random Forest. The num
 Please view the code of this project in the following order, which represents the order of my code development process:
 1. Initial results: includes data preparation and data visualization results.
 2. Neighbourhood & Olympic venues (code experimentation)
-3. Prediction: shows how 3+1 algorithms were applied in this project [Linear regression (L1 regularization) (with and without PCA), Random Forest and SVM (RBF-kernel].
+3. Prediction: shows how 3+1 algorithms were applied in this project [Linear regression (L1 regularization) (with and without PCA), Random Forest and SVM (RBF-kernel)].
 
 Further developments of this project can be:
 - Adjust algorithm parameters to see change on their accuracy evaluation scores.
